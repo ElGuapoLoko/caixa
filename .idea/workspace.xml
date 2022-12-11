@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab50ded-4a0d-4521-acfc-05e0fda3c36d" name="Default Changelist" comment="" />
+    <list default="true" id="eab50ded-4a0d-4521-acfc-05e0fda3c36d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +14,26 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1YcHtmRhMhzLmJxVFQiEy5na4mm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/controler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projetos\Meus Projetos\caixa" />
       <recent name="F:\Development\Programs\wamp\www\controler" />
       <recent name="F:\Development\Programs\wamp\www" />
       <recent name="C:\xampp\xampp\htdocs" />
@@ -62,48 +78,22 @@
       <workItem from="1583800729914" duration="6125000" />
       <workItem from="1583870881069" duration="16128000" />
       <workItem from="1616541761523" duration="977000" />
+      <workItem from="1670797726926" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1583417196872">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583417196872" />
-    <state x="549" y="244" key="NewPhpClassDialog" timestamp="1583236455222">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="549" y="244" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1583236455222" />
-    <state x="494" y="279" key="NewPhpFileDialog" timestamp="1583871220574">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="494" y="279" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1583871220574" />
-    <state x="555" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1583236971001" />
-    <state x="617" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1583405258238" />
-    <state x="262" y="0" key="SettingsEditor" timestamp="1583432902006">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="262" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583432902006" />
-    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583321106999" />
-    <state x="246" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583405594898" />
-    <state x="374" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1583870886151">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="374" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583870886151" />
-    <state x="421" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1583320175952" />
-    <state x="468" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583405208187" />
-    <state x="354" y="82" width="572" height="516" key="find.popup" timestamp="1583773932949">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="354" y="82" width="572" height="516" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1583773932949" />
-    <state x="341" y="142" width="672" height="537" key="search.everywhere.popup" timestamp="1583785699396">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="341" y="142" width="672" height="537" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583785699396" />
-    <state x="383" y="180" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1583241010807" />
-    <state x="426" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583414724422" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
